@@ -1,0 +1,11 @@
+# Archivos de entorno (CLAVES SECRETAS)
+.env
+.env.local
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Carpetas de sistema
+.vscode/
+.idea/
