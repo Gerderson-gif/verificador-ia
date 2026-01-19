@@ -1,11 +1,4 @@
-# Archivos de entorno (CLAVES SECRETAS)
 .env
-.env.local
-
-# Archivos temporales de Python
+venv/
 __pycache__/
-*.py[cod]
-
-# Carpetas de sistema
-.vscode/
-.idea/
+.streamlit/secrets.toml
