@@ -1,0 +1,18 @@
+[theme]
+# Modo base oscuro (esto ya hace el 90% del trabajo)
+base = "dark"
+
+# Color principal (Botones y acentos) - Un azul similar al de Gemini
+primaryColor = "#2E86C1"
+
+# Fondo general (Casi negro, muy elegante)
+backgroundColor = "#0E1117"
+
+# Fondo de la barra lateral y cajas de input
+secondaryBackgroundColor = "#161B22"
+
+# Color del texto
+textColor = "#FAFAFA"
+
+# Fuente (opcional, sans serif es la moderna)
+font = "sans serif"
